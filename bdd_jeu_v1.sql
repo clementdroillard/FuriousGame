@@ -89,7 +89,7 @@ CREATE TABLE IF NOT EXISTS `joueur` (
 INSERT INTO `joueur` (`idJoueur`, `nom`) VALUES
 (1, 'joueur1'),
 (2, 'joueur2'),
-(3, 'TestProcédure'),
+(3, 'joueur3'),
 (4, 'joueur4');
 
 -- --------------------------------------------------------
